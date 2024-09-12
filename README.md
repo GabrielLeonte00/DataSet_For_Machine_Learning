@@ -1,4 +1,5 @@
 # DataSet_for_Machine_Learning
-<p>Aplicatie ce este destinata crearii unor seturi pentru Machine Learning </p>
-<p>Aplicatia poate insera taguri si poate decupa portiuni din poza, portiuni ce sunt selectate cu mouse-ul.</p>
-<p>In final portiunile pot fi exportate cu numele tagului ales</p>
+
+Developed collaboratively by a team of four students, this app simplifies the process of managing labeled data for machine learning purposes.<br>
+The application allows users to upload images, draw rectangles with customizable tags to label different areas.<br>
+The selected regions are tagged with user-defined names and can be easily saved and exported to a chosen folder.
